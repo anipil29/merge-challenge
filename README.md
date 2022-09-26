@@ -1,3 +1,4 @@
+REMOTE
 # merge-challenge
 
 LOCAL
